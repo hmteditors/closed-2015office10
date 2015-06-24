@@ -1,11 +1,11 @@
 
 if [ "$#" -ne 1 ]; then
-    echo "Usage: sh verify.sh URN"
+    echo "Usage: sh validate.sh URN"
     exit
 fi
 
 
-echo "Verifying from configuration in /vagrant/2015office10/configs/vm-mom-config.gradle verify"
+echo "Verifying from configuration in /vagrant/2015office10/configs/vm-mom-config.gradle validate"
 
 
 cd /vagrant/hmt-mom
@@ -15,4 +15,5 @@ gradle clean
 
 echo Beginning verification for folio $1
 
-gradle -Pfolio=$1 -Pconf=/vagrant/2015office10/configs/vm-mom-config.gradle verify
+gradle -Pfolio=$1 -Pconf=/vagrant/2015office10/configs/vm-mom-config.gradle validate
+
