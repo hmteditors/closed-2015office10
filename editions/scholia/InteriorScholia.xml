@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>Venetus A Interior Scholia</title>
-                <author>YOUR NAME HERE</author>
+                <author>Ashley Adam Grace</author>
             </titleStmt>
             <publicationStmt>
                 <p>Unpublished</p>
