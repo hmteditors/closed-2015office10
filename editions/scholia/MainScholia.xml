@@ -16,15 +16,114 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <group n="11">
+        <group n="19">
             <text n="msA">
                 <body>
-                    <div n="urn:cts:greekLit:tlg5026.msA.hmt:12.1" type="scholion">
+                    <div n="office10_1" type="scholion">
+                        <div type="lemma">
+                            <p>τῶν ἀνδρῶν γενεῆς</p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.105</p>
+                        </div>
+                        <div type="comment">
+                            <p>ὅτι τὸ εξῆς ἐστιν οἷς τὸ αἷμα ἐξ εμοῦ ἐστιν οὐχι οἱ αίματος ἐξ εμοῦ εἰσιν· ἐπεὶ κὰν ἡ σύναρθρος ἔκειτο ὅθεν καὶ ἑξῆς φησὶ <q>τῶν ἀνδρῶν οἳ σῆς ἐξ αἵματός εἰσὶ(ν)</q> οἷς τὸ αἷμα ἐστιν ἐκ σοῦ</p>
+                        </div>
+                    </div>
+                    <div n="office10_2" type="scholion">
                         <div type="lemma">
                             <p></p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.office10_1</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.108</p>
+                        </div>
+                        <div type="comment">
+                            <p>διὰ τί ἡ  Ἥρα ὀμόσαι †πρὸς† τὸν Δία; ἢ δῆλον ὡς οὐ ποιοῦντα, ἃ ἂν φῇ. εἰ δὲ τοῦτο, διὰ τί οὐ κατανεῦσαι, ἀλλὰ καὶ ὀμόσαι ἠξίωσεν, ὡς καὶ ψευδομένου, ἂν μὴ ὀμόσῃ; ὁ δὲ ποιητής φησιν ἀληθεύειν <q>ὅ, τί κεν κεφαλῇ κατανεύσῃ</q> τὸ μὲν οὖν ὅλον μυθῶδες· καὶ γὰρ οὐδ' ἀφ' ἑαυτοῦ ταῦτά φησιν Ὅμηρος οὐδὲ γινόμενα εἰσάγει, ἀλλ' ὡς διαδεδομένων περὶ τὴν Ἡρακλέους γένεσιν μέμνηται. ῥητέον δὲ ὅτι καὶ ὁ μῦθος εἰκότως εἰσάγει τὴν Ἥραν ὁρκοῦσαν τὸν Δία· πάντες γὰρ περὶ ὦν ἂν φοβῶνται, μὴ ἄλλως ἀποβῇ, πολὺ τῷ ἀσφαλεῖ προέχειν πειρῶνται· διὸ καὶ ἡ Ἥρα, ἅτε οὐ περὶ μικρῶν ἀγωνιζομένη καὶ τὸν Δία εἰδυῖα ὅτι αἰσθόμενος τὸν Ἡρακλέα δουλεύοντα ὑπεραγανακτήσει, τῇ ἰσχυροτάτῃ ἀνάγκῃ κατέλαβεν αὐτόν. οὕτως Ἀριστοτέλης</p>
+                        </div>
+                    </div>
+                    <div n="office10_3" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.114</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_4" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.115</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_5" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.116</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_6" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.117</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_7" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.118</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_8" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.119</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_9" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                              <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.120</p>
+                        </div>
+                        <div type="comment">
+                            <p></p>
+                        </div>
+                    </div>
+                    <div n="office10_10" type="scholion">
+                        <div type="lemma">
+                            <p></p>
+                        </div>
+                        <div type="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:19.123</p>
                         </div>
                         <div type="comment">
                             <p></p>
