@@ -33,9 +33,9 @@ But come now and swear an oath to me: Why does Hera make Zeus swear an oath? It 
 - Line [108][19.108]  
 - [Scholion][Scholion108]
 
-### Inconsistancy 
+### Inconsistency 
 
-- The wording of line 19.108, when Hera is asking Zeus for an oath, has strong inconsistancies to the passage when Zeus assures Thetis of the binding principles behind a god's nod of assent, lines [1.524-26][19.524] and [1.527][19.527]
+- The wording of line 19.108, when Hera is asking Zeus for an oath, has strong inconsistencies to the passage when Zeus assures Thetis of the binding principles behind a god's nod of assent, lines [1.524-26][19.524] and [1.527][19.527]
 
 
 ---
@@ -54,7 +54,7 @@ Lines 1.524-27
 
 ![bookcover][Cover]
 
-The Aristotele’s intent is to assure the readers that Homer is not being inconsistent here in this passage but that instead he is calling upon a larger tradition of these stories, that came before the concept of Homer himself, and aware enough of them to craft into his poetry. 
+The Aristotle’s intent is to assure the readers that Homer is not being inconsistent here in this passage but that instead he is calling upon a larger tradition of these stories, that came before the concept of Homer himself, and aware enough of them to craft into his poetry. 
 
 ![Fragment163][Fragmentr163]
 
@@ -65,15 +65,15 @@ The Aristotele’s intent is to assure the readers that Homer is not being incon
 ![διαδεδομένων][tradition]
 
 
-By explaining away Homer's inconsistencies by calling on a larger tradition of Greek cutlture and storytelling, this scholion is actually providing more evidence for the the theory that Homer was not a single poet. It supports the idea that there was a much larger historical and mythological convention happening in oral poetry, one that the audience would have been familiar with. 
+By explaining away Homer's inconsistencies by calling on a larger tradition of Greek cultture and storytelling, this scholion is actually providing more evidence for the the theory that Homer was not a single poet. It supports the idea that there was a much larger historical and mythological convention happening in oral poetry, one that the audience would have been familiar with. 
 
 ---
 
 ## Conclusions and Questions
 
-- The multitext tradition is growing and continuing with this project as it has the last several centuries even before Homer adding to a multi-layered progression of information being passed on from story tellers before Homers to us?
+- The growing multitext tradition
 - What does this mean for the research on oral tradition?
-- If this multitext is the next step for the cycle of continuing with Homeric study, by hosting a digital venue to carry on the Homeric tradition, then what will the next step be after this in the future? The Greeks may have not had the tiniest inkling that their work could be projected into a virtual world, so how can we possible conceptualize the next step in this continuous cycle? 
+
 
 ---
 
